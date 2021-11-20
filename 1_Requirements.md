@@ -62,6 +62,9 @@ By, entering the patient ID, the system shall show the basic information for the
 2. view today's reservation.
 In this view, the system shall print all reservation with the patient ID attached to each reservation slot.
 
+SWOT ANALYSIS
+
+
 
 
 
