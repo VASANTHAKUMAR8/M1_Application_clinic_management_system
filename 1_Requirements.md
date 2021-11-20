@@ -20,7 +20,7 @@ Reducing errors:
 our software will provide proper validation techniques thet will collectvely reduce errors done when recording data.
 
          
-         Defining Our System
+Defining Our System
          
          The Clinic Management System is divided into two, where the admin and user can be login separately. The Admin is the one that can add, delete and change about the user's information and also about the patient's information. The user, unlike admin is only responsible for keeping/recording about the patient's information. The Clinic Management System can view the master list of all the patient's details. The computerized system is not only responsible for recording the details about the patient, it also provide an information about the hired stuff/assistant. Having a computer system nowadays is very important including those small businesses to help them and make their business more competitive.The Clinic Management System (CMS) will help the clinic to keep and managed the personal records of the patient. Recording patient information is one of the important aspect of dental institution. There are Dental Clinic that records manually that's why it is very time consuming and more paper works. Clinic Management System is design to help the employee in recording the patient's record and will change the manual record into computerized records.This system will also ensures the preservation of personal records and ensure the accessibility only by the authorized personnel. To have a good and efficient records management system should be able to incorporate specific aspects of the systems mentioned above in order to provide and efficient means of records storage and management.
          
@@ -35,13 +35,15 @@ Project Scope
 Clinic Management System was primarily developed to improve the clinic's system for storing data or information about the patient.
 The system was focused on moving the manual system into computerized system that update and also accommodates the process of viewing and storing information about the patient  that is also responsible for records. The system also deal with searching capability procedure of recorded patient which helps the user for easy retrieval of the records.
 
+Project detail
 
 In Admin mode
 
-The system asks for password,the defauld password is 1234.The system allows 3 trails for the passwords entry,if the entered password was incorrect for consective times,the system shall close,After login in the admin mode,the system shall provied the following features:
+The system asks for password,the defauld password is 1234.The system allows 3 trails for the passwords entry,if the entered password was incorrect for consecutive times,the system shall close,After login in the admin mode,the system shall provied the following features:
 
 1.Add nwe patient recode:
-To add a new patient ,the user shall admin shall enter these basic information: name, age, gender and ID. The ID shall be unique for rhe user,if the entered ID is already exists, the system shall reject the entry.
+To add a new patient ,the user shall admin shall enter these basic information: name, age, gender and ID. The ID shall be unique for the user,if the entered ID is already exists, the system shall reject the entry.
+
 2.Edit patient recode
 By entering patient ID the system shall checks if the ID exists,the system shall alow the user to edit the patient information. If not,the system shall display incorrect ID message.
 
@@ -50,15 +52,17 @@ By default there are 5 available slots,2pm to 2.30pm,3pm to 3.30pm, 4pm to 4.30p
 
 4.Cancel reservation:
 
-The admin can cancel a reservation by entering the patient ID. This reservation shall be show again in the avalible slots window.
+The admin can cancel a reservation by entering the patient ID. This reservation shall be shown again in the avaliable slots window.
 
 In the user mode
 
-There is o password. The syatem allows the floowing features:
+There is no password. The syatem allows the following features:
 1. View patient record.
-by, entering the patient ID, the system shall the basic information for the patient.
-view today's reservation.
-in this , the system shall print all reservation with the patient ID attached to each reservation slot.
+By, entering the patient ID, the system shall show the basic information for the patient.
+2. view today's reservation.
+In this view, the system shall print all reservation with the patient ID attached to each reservation slot.
+
+
 
 
 
