@@ -63,6 +63,40 @@ By, entering the patient ID, the system shall show the basic information for the
 In this view, the system shall print all reservation with the patient ID attached to each reservation slot.
 
 SWOT ANALYSIS
+Strength:
+1.Special expertise
+2.Reputation
+3.cost
+4.Technology advantages
+
+Weaknesses:
+1.Limited service lines
+2.Management of staff problems
+3.Marketing deficiencies
+
+Opportunities:
+1.New technology
+2.Lack of dominant Competition
+3.New markets or services
+
+Threats:
+1.New or increased competition
+2.Insurance plan changes
+3.Adverse demograghic changes
+4.Economic slowdowns
+
+4W's and 1'H
+
+WHAT:
+
+Clinic Management is a comprehensive tool to effectively manage clinics and hospitals. It provides an overview of entire clinic operations in Real-Time like list number of patients,patients history,phone number, patient ID,time reservasion.The system was focused on moving the manual system into computerized system that update and also accommodates the process of viewing and storing information about the patient  that is also responsible for records. The system also deal with searching capability procedure of recorded patient which helps the user for easy retrieval of the records.
+
+WHY:
+
+The increase in private and specialty clinics/hospitals has driven the indispensable need of clinic management system to rationalize private physician consultation benefits. It leverages more professional practices on patient history, appointments, and completely reduce the medication error, improve business performance and thereby the revenue bottom line.
+
+WHERE:
+
 
 
 
