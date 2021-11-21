@@ -42,12 +42,15 @@ In Admin mode
 The system asks for password,the defauld password is 1234.The system allows 3 trails for the passwords entry,if the entered password was incorrect for consecutive times,the system shall close,After login in the admin mode,the system shall provied the following features:
 
 1.Add nwe patient recode:
+
 To add a new patient ,the user shall admin shall enter these basic information: name, age, gender and ID. The ID shall be unique for the user,if the entered ID is already exists, the system shall reject the entry.
 
 2.Edit patient recode
+
 By entering patient ID the system shall checks if the ID exists,the system shall alow the user to edit the patient information. If not,the system shall display incorrect ID message.
 
 3.Reserve a slot with the doctor:
+
 By default there are 5 available slots,2pm to 2.30pm,3pm to 3.30pm, 4pm to 4.30pm and 4.30pm to 5pm.Upon opening of this window, the system shall display the available slots. The admin shall enter the patient ID and the desired slot. The reserved slot shall not appear again in the next patient reservation.
 
 4.Cancel reservation:
@@ -63,6 +66,7 @@ By, entering the patient ID, the system shall show the basic information for the
 In this view, the system shall print all reservation with the patient ID attached to each reservation slot.
 
 SWOT ANALYSIS
+
 Strength:
 1.Special expertise
 2.Reputation
@@ -70,16 +74,19 @@ Strength:
 4.Technology advantages
 
 Weaknesses:
+
 1.Limited service lines
 2.Management of staff problems
 3.Marketing deficiencies
 
 Opportunities:
+
 1.New technology
 2.Lack of dominant Competition
 3.New markets or services
 
 Threats:
+
 1.New or increased competition
 2.Insurance plan changes
 3.Adverse demograghic changes
@@ -96,6 +103,12 @@ WHY:
 The increase in private and specialty clinics/hospitals has driven the indispensable need of clinic management system to rationalize private physician consultation benefits. It leverages more professional practices on patient history, appointments, and completely reduce the medication error, improve business performance and thereby the revenue bottom line.
 
 WHERE:
+
+
+
+Detail requirements
+
+
 
 
 
